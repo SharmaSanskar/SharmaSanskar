@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanskar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 👀 I’m interested in Data Science and ML
+- 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me ...
 
 <!---
