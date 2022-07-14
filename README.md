@@ -22,6 +22,11 @@
 
 ### 📖 Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [YAML Quickstart: Only things you need to get started](https://blog.devops.dev/yaml-quickstart-only-things-you-need-to-get-started-6ca42a8685b0?source=rss-47228efa96a5------2)
+- [MLOps: A brief introduction](https://sharmasanskar.medium.com/mlops-a-brief-introduction-fd27d3a4bb61?source=rss-47228efa96a5------2)
+- [Beyond Gradient Descent](https://sharmasanskar.medium.com/beyond-gradient-descent-92462831ee8b?source=rss-47228efa96a5------2)
+- [How Dropout helps regularize deep neural networks](https://sharmasanskar.medium.com/how-dropout-helps-regularize-deep-neural-networks-4eed3d545c7a?source=rss-47228efa96a5------2)
+- [The unprecedented rise of language models](https://sharmasanskar.medium.com/the-unprecedented-rise-of-language-models-8ea7ae1dc7d8?source=rss-47228efa96a5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
