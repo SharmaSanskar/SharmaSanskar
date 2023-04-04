@@ -22,11 +22,11 @@
 
 ### 📖 Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Random Forests vs Neural Networks: Are you overcomplicating?](https://sharmasanskar.medium.com/random-forests-vs-neural-networks-are-you-overcomplicating-ff8cfb83e680?source=rss-47228efa96a5------2)
 - [A peek inside the magical ChatGPT](https://sharmasanskar.medium.com/a-peek-inside-the-magical-chatgpt-de3bdc6f4121?source=rss-47228efa96a5------2)
 - [Loss functions vs Metrics: The subtle distinctions](https://sharmasanskar.medium.com/loss-functions-vs-metrics-the-subtle-distinctions-242ce7aec3e2?source=rss-47228efa96a5------2)
 - [YAML Quickstart: Only things you need to get started](https://blog.devops.dev/yaml-quickstart-only-things-you-need-to-get-started-6ca42a8685b0?source=rss-47228efa96a5------2)
 - [MLOps: A brief introduction](https://sharmasanskar.medium.com/mlops-a-brief-introduction-fd27d3a4bb61?source=rss-47228efa96a5------2)
-- [Beyond Gradient Descent](https://sharmasanskar.medium.com/beyond-gradient-descent-92462831ee8b?source=rss-47228efa96a5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
