@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- 👨‍💻 Take a look at my [Portfolio](https://sanskarsharma.vercel.app/)
+- 👨‍💻 Take a look at my [Portfolio](https://sanskarsharma.com/)
 
 - 📝 I regularly write articles on [Medium](https://sharmasanskar.medium.com/)
 
